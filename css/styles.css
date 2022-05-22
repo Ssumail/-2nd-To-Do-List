@@ -194,7 +194,7 @@ footer a {
   color: white;
 }
 
-@media screen and (max-device-width: 620px) {
+@media screen and (max-device-width: 1170px) {
   section {
     width: 96%;
     padding: 0 2%;
@@ -210,7 +210,7 @@ footer a {
   }
 }
 
-@media screen and (min-width: 620px) {
+@media screen and (min-width: 1170px) {
   section {
     width: 96%;
     padding: 0 2%;
