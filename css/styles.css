@@ -55,7 +55,7 @@ form {
 }
 
 button {
-
+margin-top: 8px;
   min-height: 50px;
   width: 50px;
   border-radius: 50%;
@@ -75,6 +75,7 @@ input[type="text"] {
   font-size: 20px;
   font-weight: 200;
   color: grey;
+  width:235px;
 }
 
 input[type="text"]:focus {
@@ -202,12 +203,7 @@ footer a {
 
 }
 
-@media (-webkit-min-device-pixel-ratio:2) {
-  button {
-    min-width: 25px;
 
-  }
-}
 
 @media screen and (min-width: 620px) {
   section {
