@@ -204,8 +204,8 @@ footer a {
 
 @media (-webkit-min-device-pixel-ratio:2) {
   button {
-    width: 25px;
-    min-height: 25px;
+    min-width: 25px;
+
   }
 }
 
