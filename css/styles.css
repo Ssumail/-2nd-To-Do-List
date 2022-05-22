@@ -199,9 +199,12 @@ footer a {
     width: 96%;
     padding: 0 2%;
   }
+  button {
+    width: 25px;
+  }
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:2) {
+@media screen and (-webkit-min-device-pixel-ratio:2) (-webkit-max-device-pixel-ratio:2){
   button {
     width: 25px;
   }
